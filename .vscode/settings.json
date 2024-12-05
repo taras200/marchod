@@ -1,0 +1,12 @@
+{
+  "git.ignoreLimitWarning": true,
+  "html.hover.documentation": false,
+  "css.hover.documentation": false,
+  "less.hover.documentation": false,
+  "scss.hover.documentation": false,
+  "editor.hover.above": true,
+  "less.hover.references": false,
+  "css.hover.references": false,
+  "scss.hover.references": false,
+  "html.hover.references": false
+}
