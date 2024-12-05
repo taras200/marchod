@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Quicksand-Medium';
+  font-style: normal;
+  font-weight: 500;
+
+  src: local('Quicksand-Medium'), url(../fonts/Quicksand-Medium.woff2) format('woff2'),
+  url(../fonts/Quicksand-Medium.woff) format('woff');
+   
+ 
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Quicksand-Regular';
+  font-style: normal;
+  font-weight: 400;
+
+  src: local('Quicksand-Regular'), url(../fonts/Quicksand-Regular.woff2) format('woff2'),
+    url(../fonts/Quicksand-Regular.woff) format('woff');
+
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  font-style: normal;
+  font-weight: 400;
+
+  src: local('Roboto-Regular'), url(../fonts/Roboto-Regular.woff2) format('woff2'),
+    url(../fonts/Roboto-Regular.woff) format('woff');
+
+
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  font-style: normal;
+  font-weight: 700;
+
+  src: local('Roboto-Bold'), url(../fonts/Roboto-Bold.woff2) format('woff2'),
+    url(../fonts/Roboto-Bold.woff) format('woff');
+
+
+  font-display: swap;
+}
